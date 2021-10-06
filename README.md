@@ -2,7 +2,7 @@
 
 *Zijian Dong, Jie Song, Xu Chen, Chen Guo, Otmar Hilliges*
 
-![teaser](docs/main.jpg)
+![teaser](pipeline.png)
 
 [Paper][<a href="https://ait.ethz.ch/projects/2021/multi-human-pose/" target="_blank">Project</a>][<a href="https://www.youtube.com/watch?v=KE5Jpnyqmh4&t=1s" target="_blank">Video</a>]
 
