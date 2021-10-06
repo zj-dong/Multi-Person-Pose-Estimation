@@ -1,4 +1,4 @@
-## Shape-aware Multi-Person Pose Estimation from Multi-view Images
+## Shape-aware Multi-Person Pose Estimation from Multi-view Images(ICCV 2021)
 
 *Zijian Dong, Jie Song, Xu Chen, Chen Guo, Otmar Hilliges*
 
