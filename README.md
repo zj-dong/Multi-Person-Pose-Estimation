@@ -1,10 +1,15 @@
-## Shape-aware Multi-Person Pose Estimation from Multi-view Images (ICCV 2021)
-
-*Zijian Dong, Jie Song, Xu Chen, Chen Guo, Otmar Hilliges*
+# Shape-aware Multi-Person Pose Estimation from Multi-view Images (ICCV 2021)
+### [Project Page](https://ait.ethz.ch/projects/2021/multi-human-pose/) | [Video](https://www.youtube.com/watch?v=KE5Jpnyqmh4&t=99s) | [Paper](https://arxiv.org/abs/2110.02330) | [Supplementary](https://ait.ethz.ch/projects/2021/multi-human-pose/supplementary.pdf) | [Blog]()
 
 ![teaser](pipeline.png)
 
-[Paper][<a href="https://ait.ethz.ch/projects/2021/multi-human-pose/" target="_blank">Project</a>][<a href="https://www.youtube.com/watch?v=KE5Jpnyqmh4&t=1s" target="_blank">Video</a>]
+> [Shape-aware Multi-Person Pose Estimation from Multi-view Images](https://arxiv.org/abs/2110.02330)  
+> Zijian Dong, Jie Song, Xu Chen, Chen Guo, Otmar Hilliges  
+> ICCV 2021
+
+Any questions or discussions are welcomed!
+
+The code will be available soon.
 
 # Cite
 
