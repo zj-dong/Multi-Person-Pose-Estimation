@@ -1,5 +1,5 @@
 # Shape-aware Multi-Person Pose Estimation from Multi-view Images (ICCV 2021)
-### [Project Page](https://ait.ethz.ch/projects/2021/multi-human-pose/) | [Video](https://www.youtube.com/watch?v=KE5Jpnyqmh4&t=99s) | [Paper](https://arxiv.org/abs/2110.02330) | [Supplementary](https://ait.ethz.ch/projects/2021/multi-human-pose/supplementary.pdf) | [Blog]()
+### [Project Page](https://ait.ethz.ch/projects/2021/multi-human-pose/) | [Video](https://www.youtube.com/watch?v=KE5Jpnyqmh4&t=99s) | [Paper](https://arxiv.org/abs/2110.02330) | [Supplementary](https://ait.ethz.ch/projects/2021/multi-human-pose/supplementary.pdf) | [Blog](https://eth-ait.medium.com/shape-aware-multi-person-pose-estimation-from-multi-view-images-1c513d3a8dc)
 
 ![teaser](pipeline.png)
 
